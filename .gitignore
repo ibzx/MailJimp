@@ -6,4 +6,6 @@ target/
 **/.DS_Store
 **/*.iml
 **/.idea
+.idea
+*.iml
 bin/
